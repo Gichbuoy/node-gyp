@@ -1,4 +1,4 @@
-# Changelog
+# ChangeLog
 
 ### [9.3.1](https://www.github.com/nodejs/node-gyp/compare/v9.3.0...v9.3.1) (2022-12-16)
 
